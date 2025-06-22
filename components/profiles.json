@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Ravi Kumar",
+    "age": 28,
+    "religion": "Hindu",
+    "caste": "Naidu",
+    "location": "Chennai",
+    "gender": "Male",
+    "image": "https://xsgames.co/randomusers/avatar.php?g=male"
+  },
+  {
+    "id": 2,
+    "name": "Meena Lakshmi",
+    "age": 25,
+    "religion": "Hindu",
+    "caste": "Iyer",
+    "location": "Madurai",
+    "gender": "Female",
+    "image": "https://xsgames.co/randomusers/avatar.php?g=female"
+  },
+  {
+    "id": 3,
+    "name": "Priya Mohan",
+    "age": 26,
+    "religion": "Hindu",
+    "caste": "Vanniyar",
+    "location": "Coimbatore",
+    "gender": "Female",
+    "image": "https://xsgames.co/randomusers/avatar.php?g=female"
+  },
+  {
+    "id": 4,
+    "name": "Sundar Raj",
+    "age": 30,
+    "religion": "Hindu",
+    "caste": "Pillai",
+    "location": "Trichy",
+    "gender": "Male",
+    "image": "https://xsgames.co/randomusers/avatar.php?g=male"
+  },
+  {
+    "id": 5,
+    "name": "Aishwarya Devi",
+    "age": 27,
+    "religion": "Hindu",
+    "caste": "Brahmin",
+    "location": "Tirunelveli",
+    "gender": "Female",
+    "image": "https://xsgames.co/randomusers/avatar.php?g=female"
+  },
+  {
+    "id": 6,
+    "name": "Karthik Sharma",
+    "age": 32,
+    "religion": "Hindu",
+    "caste": "General",
+    "location": "Bangalore",
+    "gender": "Male",
+    "image": "https://xsgames.co/randomusers/avatar.php?g=male"
+  },
+  {
+    "id": 7,
+    "name": "Deepa Nair",
+    "age": 24,
+    "religion": "Hindu",
+    "caste": "Nair",
+    "location": "Kochi",
+    "gender": "Female",
+    "image": "https://xsgames.co/randomusers/avatar.php?g=female"
+  },
+  {
+    "id": 8,
+    "name": "Manju Gupta",
+    "age": 29,
+    "religion": "Hindu",
+    "caste": "Kshatriya",
+    "location": "Delhi",
+    "gender": "Female",
+    "image": "https://xsgames.co/randomusers/avatar.php?g=female"
+  },
+  {
+    "id": 9,
+    "name": "Vikram Singh",
+    "age": 31,
+    "religion": "Hindu",
+    "caste": "Rajput",
+    "location": "Jaipur",
+    "gender": "Male",
+    "image": "https://xsgames.co/randomusers/avatar.php?g=male"
+  }
+]
