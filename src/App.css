@@ -16,7 +16,7 @@
   /* ✅ Only this element is transparent */
 }
 .login-bg-image {
-  background-image: url("images/matrimony-2.jpg");
+  background-image: url("/Matrimony-Application/images/matrimony-2.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
