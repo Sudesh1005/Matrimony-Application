@@ -6,7 +6,7 @@ import Dashboard from "../components/Dashboard";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/Matrimony-Application">
   
       <Routes>
         <Route path="/" element={ <Home/>} />
