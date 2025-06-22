@@ -2,8 +2,8 @@ import { useNavigate } from "react-router-dom";
 function Register() {
   let navigate = useNavigate()
   let handleSubmit = ()=>{
-    navigate("/dashboard")
-  }
+    navigate("/dashboard");
+  };
   return (
     <div className="container-fluid px-0">
       <div className="row">
@@ -132,7 +132,7 @@ function Register() {
 
                 <p className="text-center mt-3">
                   Already have an account?{" "}
-                  <a href="/Matrimony-Applicatio/login" className="text-decoration-none">
+                  <a href="/Matrimony-Application/login" className="text-decoration-none">
                     Login
                   </a>
                 </p>

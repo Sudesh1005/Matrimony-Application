@@ -1,6 +1,4 @@
-import { Link } from "react-router-dom";
 import { useNavigate } from "react-router-dom";
-
 function Login() {
   const navigate = useNavigate();
   let handleSubmit = ()=>{
@@ -55,7 +53,7 @@ function Login() {
                       </button>
                     </div>
                   </form>
-                  <p className="text-center mt-3">Creact an Account <Link to="/register" className="text-decoration-none">Register</Link></p>
+                  <p className="text-center mt-3">Creact an Account <a href="/register" className="text-decoration-none">Register</a></p>
                 </div>
               </div>
             </div>
