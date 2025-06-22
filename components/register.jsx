@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import { useNavigate } from "react-router-dom";
 function Register() {
   let navigate = useNavigate()
@@ -132,9 +133,9 @@ function Register() {
 
                 <p className="text-center mt-3">
                   Already have an account?{" "}
-                  <a href="/Matrimony-Application/login" className="text-decoration-none">
+                  <Link to="/login" className="text-decoration-none">
                     Login
-                  </a>
+                  </Link>
                 </p>
               </div>
             </div>
