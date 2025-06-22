@@ -6,7 +6,7 @@ function Home() {
       <div className="banner-img"></div>
       <section className="banner-bg-color">
         <div className="d-flex justify-content-between pt-3 mx-4">
-          <div><img src="/images/logo.png" alt="" /></div>
+          <div><img src="/Matrimony-Application/images/logo.png" alt="" /></div>
           <div className="mt-4 mt-md-3 me-2">
             <Link to="/login" className="text-decoration-none text-white fs-4">
               Login
